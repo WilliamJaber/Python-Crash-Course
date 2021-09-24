@@ -1,5 +1,3 @@
+famous_quote = 'William Shakespeare once said "To thine own self, be true."'
 
-author = 'William Shakespeare'
-famous_quote = 'To thine own self, be true.'
-
-print(f'{author} once said, "{famous_quote}"')
+print(famous_quote)
