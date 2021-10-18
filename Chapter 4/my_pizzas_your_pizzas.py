@@ -8,7 +8,6 @@ my_pizzas.append('doble cheese')
 # Add a different pizza to the list friend_pizzas.
 friend_pizzas.append('salami')
 
-
 message1 = '\nMy favorite pizzas are: '
 print(message1)
 for pizza in my_pizzas:
