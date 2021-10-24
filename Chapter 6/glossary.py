@@ -6,5 +6,5 @@ glossary = {
     'Boolean': 'is a logical data type that can have only the values True or False.\n',
     }
 
-for i in glossary:
-    print(f'{i}: {glossary[i]}')
+for word in glossary:
+    print(f'{word}: {glossary[word]}')
