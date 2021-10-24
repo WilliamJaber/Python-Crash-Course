@@ -7,11 +7,11 @@ favorite_numbers = {
     }
 
 
-for keys in favorite_numbers.keys():
+for keys in favorite_numbers:
     print(keys)
 
-for values in favorite_numbers.values():
-    print(values)
+for values in favorite_numbers:
+    print(favorite_numbers[values])
 
 for k, v in favorite_numbers.items():
     print(f'{k}: {v}')
