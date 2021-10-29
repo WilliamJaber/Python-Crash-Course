@@ -1,6 +1,6 @@
 # Python-Crash-Course
 
-<![Python-Crash-Course](https://user-images.githubusercontent.com/90568326/139498533-a37cca34-e144-4653-8548-c100b71b3f44.jpg) wdith="630" height="340" />
+![Python-Crash-Course](https://user-images.githubusercontent.com/90568326/139498533-a37cca34-e144-4653-8548-c100b71b3f44.jpg)
 
 
 
