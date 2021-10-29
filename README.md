@@ -1,9 +1,8 @@
 # Python-Crash-Course
 
 <div align="center">
-<img src="![Python-Crash-Course](https://user-images.githubusercontent.com/90568326/139498474-f8daece4-692d-472e-935d-9ec673a332b1.jpg)
-" wdith="630" height="340" />
-</div>
+![Python-Crash-Course](https://user-images.githubusercontent.com/90568326/139498533-a37cca34-e144-4653-8548-c100b71b3f44.jpg)
+
 
 
 ## Background Info
