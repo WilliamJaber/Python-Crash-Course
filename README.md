@@ -1,8 +1,10 @@
 # Python-Crash-Course
 
+<div align="center">
+
 ![Python-Crash-Course](https://user-images.githubusercontent.com/90568326/139498533-a37cca34-e144-4653-8548-c100b71b3f44.jpg)
 
-
+</div>
 
 ## Background Info
 A fast-paced, no-nonsense guide to programming in Python. Updated and thoroughly revised to reflect the latest in Python code and practices. Python Crash Course is the world's best-selling guide to the Python programming language.
