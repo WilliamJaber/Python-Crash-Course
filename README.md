@@ -1,8 +1,9 @@
 # Python-Crash-Course
-Study Project
+![Python-Crash-Course](https://user-images.githubusercontent.com/90568326/139498041-3a66c246-139c-44db-8ecc-8ece6c7c9020.jpg)
+
 
 ## Background Info
-Exercises from the book: Python-Crash-Course
+A fast-paced, no-nonsense guide to programming in Python. Updated and thoroughly revised to reflect the latest in Python code and practices. Python Crash Course is the world's best-selling guide to the Python programming language.
 
 ## Technology Framework
 - Python 3.0 +
