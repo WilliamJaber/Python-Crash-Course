@@ -1,7 +1,7 @@
 # Python-Crash-Course
 
 <div align="center">
-<img src="![Python-Crash-Course](https://user-images.githubusercontent.com/90568326/139498041-3a66c246-139c-44db-8ecc-8ece6c7c9020.jpg)" wdith="630" height="340" />
+<img src="https://www.genesishealthclubs.com/media/images/iStock-464387793.jpg" wdith="630" height="340" />
 </div>
 
 
