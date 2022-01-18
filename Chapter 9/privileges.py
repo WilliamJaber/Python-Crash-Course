@@ -25,7 +25,7 @@ class Privileges:
     def __init__(self, list = ["can add and delete post", "can allow special permission", "can ban user"]) -> list:
         self.privileges = list
 
-    def show_privileges(self):
+    def show_privileges(self) -> str:
         """prints administrator’s set of privileges"""
 
         print(f"\nAdmin has privileges that {self.privileges}\n")
